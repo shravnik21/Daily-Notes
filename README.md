@@ -1,4 +1,4 @@
-# 📝 Notes App
+# 📝 Daily Notes
 
 A modern and intuitive Flutter Notes App that helps users create, organize, edit, and manage their notes effortlessly. The app focuses on a clean, responsive, and user-friendly interface while providing a smooth note-taking experience.
 
