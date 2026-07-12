@@ -41,8 +41,7 @@ lib/
 ├── widgets/
 ├── services/
 ├── utils/
-├── constants/
-└── main.dart
+├── constants
 ```
 
 ---
