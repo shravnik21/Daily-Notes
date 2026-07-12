@@ -42,6 +42,7 @@ lib/
 ├── services/
 ├── utils/
 ├── constants
+|-- main/
 ```
 
 ---
